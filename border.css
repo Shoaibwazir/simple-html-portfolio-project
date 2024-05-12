@@ -1,0 +1,16 @@
+h2{
+    border: 5px solid black;
+    padding: 50px;
+    padding-left: 550px;
+    margin: 50px;
+}
+.para1{
+    border: 5px solid black;
+    padding: 50px;
+    padding-left: 350px;
+    box-sizing: border-box;
+}
+.para2{
+    border: 5px solid yellow;
+    padding: 40px;
+}
